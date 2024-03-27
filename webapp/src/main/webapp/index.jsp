@@ -12,8 +12,6 @@
   
 <form action="action_page.php">
   <div class="container">
-    <h1>This is just for Jenkins and TomCat server editing.</h1>
-    <p>Done.</p>
     <h1> This is Smile Kisan Jenkins server.</h1>
     <hr>
      
